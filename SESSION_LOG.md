@@ -18,3 +18,4 @@ This file tracks key decisions, brainstorming summaries, and next steps across d
 - **Next Steps**:
   1. Pick the specific dish (or dishes) for Episode 1 / Chapter 1.
   2. Decide whether to write the non-fiction essay draft first or the YouTube script/talking points first.
+- **Git Sync Status**: Verified local file editing and GitHub remote push access (`origin/main`).

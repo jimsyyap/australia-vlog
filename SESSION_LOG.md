@@ -13,9 +13,10 @@ This file tracks key decisions, brainstorming summaries, and next steps across d
     - **Phase 1**: Master the foundational Philippine dishes first (and uncover how Filipino cuisine is already a historical crossroads of the world).
     - **Phase 2 & Beyond**: Mix of exploring Melbourne's multicultural kitchens, culinary mentorships/challenges, and international travel—staying flexible to evolve into new angles.
 - **Files Updated**:
-  - `GEMINI.md` — Updated with full creator profile and Phase 1 / Phase 2 architecture.
-  - `episodes/ep01-the-decision.md` — Rewritten as *"Episode 01 / Chapter 01: To Cook the World, I Have to Start With Home"* with a 6-dish Philippine foundation roadmap.
+  - `GEMINI.md` — Updated with full creator profile, 2-camera + lav mic setup, "show, don't tell" style, and Phase 1 / Phase 2 architecture.
+  - `episodes/ep01-beef-mechado.md` — Created complete "Show, Don't Tell" production & shooting guide for today's Beef Mechado video (grocery run → 2-camera kitchen shoot → 4 lav-mic prompts + on-screen text notes).
+  - `episodes/ep01-the-decision.md` — Series overview & 6-dish Philippine foundation roadmap.
 - **Next Steps**:
-  1. Pick the specific dish (or dishes) for Episode 1 / Chapter 1.
-  2. Decide whether to write the non-fiction essay draft first or the YouTube script/talking points first.
+  1. Shoot the Beef Mechado grocery run & cooking process using `episodes/ep01-beef-mechado.md`.
+  2. After cooking, refine the on-screen text captions and companion written essay based on how the cook went.
 - **Git Sync Status**: Verified local file editing and GitHub remote push access (`origin/main`).

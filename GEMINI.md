@@ -14,7 +14,8 @@
 - **Core Premise**: A Filipino-born Australian sets out to travel the world by learning how to cook—starting by mastering the foundational dishes of the Philippines, then branching out across Melbourne's global diaspora kitchens and abroad.
 - **Tone & Style**: Personal storytelling, cultural curiosity, culinary apprenticeship, identity & migration lens; flexible enough to evolve and experiment with new angles over time.
 - **Target Audience**: Food & travel storytelling fans, diaspora/expat readers, and curious home cooks who connect with culture through food.
-- **Filming Gear**: *(To be filled in)*
+- **Filming Gear**: Two cameras/phones (Cam A wide/medium + Cam B close-up on prep/pot) + wireless lav mic.
+- **Visual/Audio Signature**: "Show, don't tell" observational filmmaking—rich kitchen sounds + subtle on-screen text notes for history/technique, punctuated by 3–4 brief, natural lav-mic remarks.
 
 ---
 
@@ -40,7 +41,8 @@
 ## 4. Current Episode / Chapter Pipeline
 | Ep # | Working Title / Concept | Focus Dish / Theme | Status | File |
 | :--- | :--- | :--- | :--- | :--- |
-| 01 | To Cook the World, I Have to Start With Home | The Foundational Pillars of Filipino Cooking (Adobo / Sinigang) & The Quest Ahead | Outlined | `episodes/ep01-the-decision.md` |
+| 01 | Slowing Down in Melbourne: Making Beef Mechado | Beef Mechado (Marbled beef, soy-citrus, tomato braise & Spanish-Filipino roots) | Ready to Shoot | `episodes/ep01-beef-mechado.md` |
+| 02 | To Cook the World, I Have to Start With Home | Series Overview / Foundational Pillars Roadmap | Outlined | `episodes/ep01-the-decision.md` |
 
 ---
 

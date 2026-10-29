@@ -14,7 +14,8 @@ This file tracks key decisions, brainstorming summaries, and next steps across d
     - **Phase 2 & Beyond**: Mix of exploring Melbourne's multicultural kitchens, culinary mentorships/challenges, and international travel—staying flexible to evolve into new angles.
 - **Files Updated**:
   - `GEMINI.md` — Updated with full creator profile, 2-camera + lav mic setup, "show, don't tell" style, and Phase 1 / Phase 2 architecture.
-  - `episodes/ep01-beef-mechado.md` — Created complete "Show, Don't Tell" production & shooting guide for today's Beef Mechado video (grocery run → 2-camera kitchen shoot → 4 lav-mic prompts + on-screen text notes).
+  - `TODO.md` — Created shared master to-do list with **#1: Cook Traditional Pinoy Sisig (authentic Kapampangan recipe & ingredients)**.
+  - `episodes/ep01-beef-mechado.md` — Created complete "Show, Don't Tell" production & shooting guide for today's Beef Mechado video.
   - `episodes/ep01-the-decision.md` — Series overview & 6-dish Philippine foundation roadmap.
 - **Next Steps**:
   1. Shoot the Beef Mechado grocery run & cooking process using `episodes/ep01-beef-mechado.md`.

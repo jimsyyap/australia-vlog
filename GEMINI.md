@@ -31,6 +31,7 @@
 
 ## 3. Project Directory Structure
 - `GEMINI.md` — Automatically loaded persistent memory and agent instructions.
+- `TODO.md` — Shared master checklist of upcoming cooks, episodes, and writing tasks.
 - `SESSION_LOG.md` — Chronological log of past brainstorming sessions, decisions, and next steps across devices.
 - `episodes/` — Individual markdown files for each episode/chapter (written essay angle, video hook, outline, recipe/technique focus, B-roll checklists, titles/thumbnails).
 - `research/` — Culinary history, flavor science, ingredient sourcing in Melbourne, cultural notes, and interview prep.
@@ -42,7 +43,8 @@
 | Ep # | Working Title / Concept | Focus Dish / Theme | Status | File |
 | :--- | :--- | :--- | :--- | :--- |
 | 01 | Slowing Down in Melbourne: Making Beef Mechado | Beef Mechado (Marbled beef, soy-citrus, tomato braise & Spanish-Filipino roots) | Ready to Shoot | `episodes/ep01-beef-mechado.md` |
-| 02 | To Cook the World, I Have to Start With Home | Series Overview / Foundational Pillars Roadmap | Outlined | `episodes/ep01-the-decision.md` |
+| 02 | Real Pinoy Sisig (No Mayo): The Kapampangan Way | Traditional Sisig (Pork jowl/ears, char-grilled, chicken liver, calamansi, chili) | Next Up (#1 in `TODO.md`) | `TODO.md` |
+| — | To Cook the World, I Have to Start With Home | Series Overview / Foundational Pillars Roadmap | Outlined | `episodes/ep01-the-decision.md` |
 
 ---
 
